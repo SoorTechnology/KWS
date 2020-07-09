@@ -1,0 +1,4 @@
+[submodule "SoorTechnology/customizemodules"]
+	path = SoorTechnology/customizemodules
+	url = git@github.com:SoorTechnology/customizemodules.git
+	branch = master
